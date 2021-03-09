@@ -3,6 +3,5 @@
 This is my first time using git :)))
 
 About me:
-College student
-Like cats
+College student who likes cats
 :)
